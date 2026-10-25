@@ -11198,7 +11198,6 @@ Stacktrace:
 #23 0x77324dcabe6b <unknown>
 #24 0x77324dd3f55c <unknown>
 
-[2026-10-22 16:08:18] 错误：Message: unknown error: net::ERR_NAME_NOT_RESOLVED
   (Session info: chrome=155.0.8059.39)
 Stacktrace:
 #0 0x64a01e71a5ea <unknown>
@@ -11315,3 +11314,4 @@ Stacktrace:
 #24 0x71568c13f55c <unknown>
 
 [2026-10-24 14:57:07] 未发现按钮，未执行点击
+[2026-10-25 01:54:41] 未发现按钮，未执行点击
